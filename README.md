@@ -1,2 +1,2 @@
 # TechfoxWeb
- Дипломный проект techfox
+ Дипломный проект techfox.ru
